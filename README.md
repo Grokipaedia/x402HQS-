@@ -1,5 +1,8 @@
 # x402HQS — High Quality Standards for x402 + IBA
 
+### Neutral & Open Governance
+x402HQS operates as a vendor-agnostic resource hub that aligns with the Linux Foundation’s neutral stewardship of the x402 protocol. 
+We focus exclusively on the authorization and audit layer (IBA + WitnessBound) so agents can pay safely without vendor lock-in.
 **Safe Agentic Payments Stack**
 
 x402 is the open payment rail (HTTP 402).  
