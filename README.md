@@ -22,6 +22,26 @@ IBA is the cryptographic authorization gate that makes it safe for agents.
 - `iba-spec/` — Formal specification (intent certificates, bounds, shard tokens, WitnessBound)
 - `demos/` — Source files for the live HTML demos
 - SDK and tools coming in v0.1
+- ### Agent Quick-Start (Coming in v0.1)
+
+Example IBA intent certificate (JSON structure agents can use):
+
+```json
+{
+  "intentId": "iba-uuid-here",
+  "humanSigner": "0xHumanWalletOrAgentOwner",
+  "bounds": {
+    "maxTotalSpend": "5.00",
+    "asset": "USDC",
+    "payees": ["0xAllowedPayeeAddress"],
+    "scope": ["x402-payment", "api-access"],
+    "expiresAt": "2026-05-01T00:00:00Z"
+  },
+  "shardDelegation": {
+    "enabled": true,
+    "maxDepth": 2
+  }
+}
 
 ### Status
 - Early stage (v0.1 soon)
