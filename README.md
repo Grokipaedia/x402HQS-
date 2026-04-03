@@ -6,8 +6,11 @@ x402 is the open payment rail (HTTP 402).
 IBA is the cryptographic authorization gate that makes it safe for agents.
 
 ### Neutral & Open Governance
-x402HQS operates as a **vendor-agnostic resource hub** that aligns with the Linux Foundation’s neutral stewardship of the x402 protocol.  
-We focus exclusively on the authorization and audit layer (IBA + WitnessBound) so agents can pay safely without vendor lock-in.
+x402HQS operates as a **vendor-agnostic resource hub**.  
+
+As of April 2, 2026, the **x402 Foundation** launched under the **Linux Foundation**, with the protocol contributed by Coinbase and broad industry support (Cloudflare, Stripe, Google, AWS, Visa, Mastercard, Circle, Shopify, Solana Foundation, and others). This establishes x402 as a neutral, community-governed standard for internet-native payments.
+
+We focus exclusively on the **authorization and audit layer** (IBA + WitnessBound) so agents can pay safely without vendor lock-in or unauthorized drains.
 
 ### Core Layers
 - **x402**: Instant stablecoin micropayments via HTTP  
