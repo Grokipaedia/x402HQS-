@@ -25,7 +25,7 @@ We focus exclusively on the **authorization and audit layer** (IBA + WitnessBoun
 ### Repository Structure
 - `iba-spec/` — Formal specification (intent certificates, bounds, shard tokens, WitnessBound)
 - `demos/` — Source files for the live HTML demos
-- SDK and tools coming in v0.1
+- `iba-sdk/` — Reference SDK placeholder (TypeScript/Python quickstarts coming in v0.1)
 
 ### Agent Quick-Start
 Example IBA intent certificate (JSON structure agents can use):
