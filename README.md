@@ -1,5 +1,9 @@
 # x402HQS — High Quality Standards for x402 + IBA
 
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Patent Pending](https://img.shields.io/badge/Patent-Pending%20GB2603013.0-amber.svg)](https://intentbound.com)
+[![NIST Filed](https://img.shields.io/badge/NIST-2025--0035%20Filed-green.svg)](https://intentbound.com/mandate-html/)
+
 **Safe Agentic Payments Stack**
 
 x402 is the open payment rail (HTTP 402).  
