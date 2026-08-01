@@ -52,9 +52,9 @@ We focus exclusively on the **authorization and audit layer** (IBA + WitnessBoun
 
 ## Live Demos
 
-- Full x402 + IBA stack: https://x402hqs.com/x402-html/
-- Shard token delegation: https://intentbound.com/shard-html/
-- Additional examples: aipayhq.com/402-html/
+
+ https://intentbound.com
+ https://aipayhq.com/402-html/
 
 ---
 
