@@ -95,12 +95,7 @@ An agent that receives an x402 402 response from an undeclared merchant — BLOC
 
 ---
 
-## Related Repos
 
-| Repo | Track |
-|------|-------|
-| [iba-onchain-guard](https://github.com/Grokipaedia/iba-onchain-guard) | 6 onchain tracks · DeFi · wallet · x402 · DAO · NFT |
-| [iba-governor](https://github.com/Grokipaedia/iba-governor) | Core gate · any agent |
 
 ---
 
@@ -127,5 +122,5 @@ IBA Intent Bound Authorization is available for acquisition.
 
 **Jeffrey Williams**
 IBA@intentbound.com
-IntentBound.com · AgentialOnChain.com · x402HQS.com
+IntentBound.com · AIPayHQ.com
 Patent GB2603013.0 Pending · WIPO DAS C9A6 · IETF draft-williams-intent-token-00
